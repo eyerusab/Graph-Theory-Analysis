@@ -1,4 +1,6 @@
+# Eyerusalem Abebe
 ## original graphs#####
+
 
 bet_cet <- read.csv("~/Desktop/bet_cent4.csv", quote="\"", comment.char="")
 #this is now the log plot 
