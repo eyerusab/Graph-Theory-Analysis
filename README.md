@@ -1,4 +1,6 @@
 # Graph-Theory-Analysis
+# Eyerusalem Abebe
+
 Analysis of Protein Pathways Database in R using Graph Theory and Statistical Methods 
 
 This code includes an analysis of an original protein pathways data, of the graph theories betweenness centrality and degree distribution
