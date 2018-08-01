@@ -1,4 +1,4 @@
-#Eyerusalem Abebe# 
+#Eyerusalem Abebe
 
 #BarabasiA betweenness centrality MLE calculation
 install.packages("xlsx")
